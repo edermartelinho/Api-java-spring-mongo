@@ -8,4 +8,5 @@ import com.ederjava.apijavamongo.dominio.User;
 @Repository
 public interface UserRepository extends MongoRepository<User, String> {
 
+
 }
